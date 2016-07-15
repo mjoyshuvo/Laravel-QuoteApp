@@ -16,6 +16,6 @@ Clone this repo
 
 `https://github.com/mjoyshuvo/Laravel-QuoteApp.git`
 
-Go to project folder cd Laravel-CRUD-Application and run
+Go to project folder cd Laravel-QuoteApp and run
 
 `composer update`
