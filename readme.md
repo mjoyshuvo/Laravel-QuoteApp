@@ -1,7 +1,7 @@
 # Laravel-QuoteApp
 
 
-A app built on Laravel and MySQL in which user can create,delete and view filtered Quote
+An app built on Laravel and MySQL in which user can create,delete and view filtered Quote
 
 <h2>Requirements</h2>
 <ul>
